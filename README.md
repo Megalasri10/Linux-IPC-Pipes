@@ -193,10 +193,12 @@ void client() {
 
 ## OUTPUT
 program :1
+
 <img width="603" height="175" alt="Screenshot 2026-05-13 092104" src="https://github.com/user-attachments/assets/a51a2cd6-6e20-43e3-9e42-72b004317b38" />
 
 ## OUTPUT
 program :2
+
 <img width="417" height="137" alt="Screenshot 2026-05-13 093157" src="https://github.com/user-attachments/assets/8d0311ac-c608-4306-bdcb-d2e2ef4320e3" />
 
 
